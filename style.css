@@ -1,10 +1,41 @@
+body{
+    text-align: center;
+}
+
 div {
     height: 100px;
     width: 100px;
-    background-image: url(car.jpg.jpg);
-    background-size: cover;
-    color: white;
-    position: fixed;
-    right: 0px;
-    top: 50px;
+    display: inline-block;
+    border: 2px solid black;
 }
+
+#container {
+    width: 800px;
+    height: 200px;
+}
+
+#box1 {
+    background-color: aqua;
+}
+
+#box2 {
+    background-color: orangered;
+}
+
+#box3 {
+    background-color: orchid;
+}
+
+#box4 {
+    background-color: yellowgreen;
+}
+
+#box5 {
+    background-color: maroon;
+}
+
+
+
+ 
+
+
